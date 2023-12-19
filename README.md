@@ -11,6 +11,7 @@ This mod is compatible with [Lethal Company Version v45](https://store.steampowe
 ## Feedback and Support
 If you encounter any issues or have suggestions for improvement, please publish an issus in [repo](https://github.com/ChiHaoLu/Lethal-Company-Kokonut-Sound/issues).
 
+
 ## Credits
 Artwork by [0xMur**](https://chihaolu.me)
 
@@ -21,3 +22,17 @@ This mod is released under the [CC-BY-NC-4](https://creativecommons.org/licenses
 
 - [A guide to Lethal Company audio modding (CustomSounds + LCSoundTool)](https://github.com/milleroski/Lethal-Company-Sound-Modding-Guide)
 - [Monsters Sound Effects - FULL Compilation In Lethal Company](https://www.youtube.com/watch?v=ZaF8gJIjAyE&ab_channel=wh_izka_s)
+
+## Mapping
+Ahh -> Roar_0
+idol -> Fly
+Come -> LongRoar1
+Bald0 -> SpoolPlayerInWeb
+Bald1 -> Fgianteatpeople
+DuGod -> JackInTheBoxTheme-45
+FuckU -> StunGiant
+FuckUMan -> SlimeKillPlayer
+Hehehe -> Spring2
+Guitar -> JackInTheBoxTheme-55
+ATuGeGe -> VoiceHey
+ATuGeGe -> VoiceCry
