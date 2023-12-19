@@ -24,15 +24,15 @@ This mod is released under the [CC-BY-NC-4](https://creativecommons.org/licenses
 - [Monsters Sound Effects - FULL Compilation In Lethal Company](https://www.youtube.com/watch?v=ZaF8gJIjAyE&ab_channel=wh_izka_s)
 
 ## Mapping
-Ahh -> Roar_0
-idol -> Fly
-Come -> LongRoar1
-Bald0 -> SpoolPlayerInWeb
-Bald1 -> Fgianteatpeople
-DuGod -> JackInTheBoxTheme-45
-FuckU -> StunGiant
-FuckUMan -> SlimeKillPlayer
-Hehehe -> Spring2
-Guitar -> JackInTheBoxTheme-55
-ATuGeGe -> VoiceHey
-ATuGeGe -> VoiceCry
+- Ahh -> Roar_0
+- ATuGeGe -> VoiceHey
+- ATuGeGe -> VoiceCry
+- Bald0 -> SpoolPlayerInWeb
+- Bald1 -> Fgianteatpeople
+- Come -> LongRoar1
+- DuGod -> JackInTheBoxTheme-45
+- FuckU -> StunGiant
+- FuckUMan -> SlimeKillPlayer
+- Guitar -> JackInTheBoxTheme-55
+- Hehehe -> Spring2
+- idol -> Fly
